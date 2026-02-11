@@ -43,6 +43,12 @@ It provides a seamless and user-friendly experience across all devices, enabling
 - Store favorites using localStorage
 - Quick access through Favorites page
 
+### ⭐ Recipe Ratings & Reviews
+- Users can rate recipes
+- Users can submit reviews
+- Ratings displayed dynamically
+- Reviews stored and rendered on recipe detail page
+
 ### 📱 Responsive Design
 - Fully responsive layout
 - Optimized for mobile, tablet, and desktop
@@ -117,7 +123,6 @@ git clone https://github.com/maheshkota03/Recipe-Project.git
 - Backend integration (Node.js + MongoDB)
 - Secure authentication with JWT
 - User profile management
-- Recipe ratings and reviews
 - Dark mode support
 - Pagination for search results
 
